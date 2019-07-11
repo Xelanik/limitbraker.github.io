@@ -130,23 +130,23 @@ nav li:last-child a {
 
 
 .bg1 {
-  background: url('./images/bg-section-1.jpg');
+  background: url('../images/bg-section-1.jpg');
 }
 
 .bg2 {
-  background: url('./images/bg-section-2.jpg');
+  background: url('../images/bg-section-2.jpg');
 }
 
 .bg3 {
-  background: url('./images/bg-section-3.jpg');
+  background: url('../images/bg-section-3.jpg');
 }
 
 .bg4 {
-  background: url('./images/bg-section-4.jpg');
+  background: url('../images/bg-section-4.jpg');
 }
 
 .bg5 {
-  background: url('./images/bg-section-about.png');
+  background: url('../images/bg-section-about.png');
 }
 
 .bg6 {
@@ -154,7 +154,7 @@ nav li:last-child a {
 }
 
 .bg7 {
-  background: url('./images/bg-section-join-us.jpg');
+  background: url('../images/bg-section-join-us.jpg');
 }
 
 .section-bg{
